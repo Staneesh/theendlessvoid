@@ -1,15 +1,44 @@
 h1 {
     text-align: center;
+    color: #D1F5D3;
 }
 
 body {
+    background-color: #231903;
     margin-left: 17%;
     margin-right: 17%;
     padding: 0;
     font-size: 127%;
+    color: #9DC6A7;
 }
 
 the-endless-void {
     display: inline;
     content: "The Endless Void";
+}
+
+ul {
+    color: #D1F5D3;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border: 3px dashed #D1F5D3;
+    border-spacing: 17px;
+    margin-bottom: 13%;
+}
+
+th {
+    color: #D1F5D3;
+    text-align: left;
+}
+
+a {
+    color: #D1F5D3;
+}
+
+a:hover {
+    color: #9DC6A7;
 }
